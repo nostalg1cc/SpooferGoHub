@@ -12,6 +12,12 @@
       "downloadURL": "https://download.spooferpro.com/SpooferPro-0.327.0-0.380.RLS.ipa",  // URL to your IPA file
       "localizedDescription": "SpooferGo allows you to spoof your location in Pokémon Go safely and easily. Enjoy features like teleporting, auto-walking, and more!",
       "iconURL": "https://spooferpro.com/android-chrome-512x512.png",  // URL to your app icon
+      "category": "utilities",
+        "screenshots": [
+            "https://spooferpro.com/android-chrome-512x512.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
       "tintColor": "42A5F5"  // Color for the app’s theme
     }
   ],
