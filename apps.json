@@ -3,7 +3,7 @@
   "identifier": "com.spooferpro.hub",  // Unique identifier for your repository
   "apps": [
     {
-      "name": "Pokémon Go",
+      "name": "Pokémosfsdfn Go",
       "bundleIdentifier": "com.nianticlabs.pokemongo",  // Official bundle identifier
       "developerName": "Niantic, Inc.",  // Official developer name
       "version": "0.327.0-0.380.RLS",  // Version for your tweak
