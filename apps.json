@@ -1,18 +1,19 @@
 {
   "name": "SpooferPro | Pokémon Go",
-  "identifier": "com.nianticlabs.pokemongo",
+  "identifier": "com.spooferpro.hub",  // Unique identifier for your repository
   "apps": [
     {
       "name": "Pokémon Go",
-      "bundleIdentifier": "com.nianticlabs.pokemongo",
-      "developerName": "Niantic, Inc.",
-      "version": "0.327.0",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",  // Official bundle identifier
+      "developerName": "Niantic, Inc.",  // Official developer name
+      "version": "0.327.0-0.380.RLS",  // Version for your tweak
       "versionDate": "2024-08-21",
-      "versionDescription": "Tweak Version - 0.379.",
-      "downloadURL": "https://download.spooferpro.com/SpooferPro-0.327.0-0.380.RLS.ipa",
+      "versionDescription": "Tweak Version - 0.379.",  // Description of the tweak version
+      "downloadURL": "https://download.spooferpro.com/SpooferPro-0.327.0-0.380.RLS.ipa",  // URL to your IPA file
       "localizedDescription": "SpooferGo allows you to spoof your location in Pokémon Go safely and easily. Enjoy features like teleporting, auto-walking, and more!",
-      "iconURL": "https://spooferpro.com/android-chrome-512x512.png",
-      "tintColor": "42A5F5"
+      "iconURL": "https://spooferpro.com/android-chrome-512x512.png",  // URL to your app icon
+      "tintColor": "42A5F5"  // Color for the app’s theme
     }
-  ]
+  ],
+  "news": []  // Optional: Include news updates if desired
 }
