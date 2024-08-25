@@ -1,0 +1,18 @@
+{
+  "name": "SpooferPro | Pokémon Go",
+  "identifier": "com.nianticlabs.pokemongo",
+  "apps": [
+    {
+      "name": "Pokémon Go",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "Niantic, Inc.",
+      "version": "0.327.0",
+      "versionDate": "2024-08-21",
+      "versionDescription": "Tweak Version - 0.379.",
+      "downloadURL": "https://download.spooferpro.com/SpooferPro-0.327.0-0.380.RLS.ipa",
+      "localizedDescription": "SpooferGo allows you to spoof your location in Pokémon Go safely and easily. Enjoy features like teleporting, auto-walking, and more!",
+      "iconURL": "https://spooferpro.com/android-chrome-512x512.png",
+      "tintColor": "42A5F5"
+    }
+  ]
+}
